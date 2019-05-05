@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">LAT3_AKB11_10116469</string>
+    <string name="app_name">RAF APP</string>
+    <string name="navi_home">HOME</string>
+    <string name="navi_daily">DAILY</string>
+    <string name="navi_gallery">GALLERY</string>
+    <string name="navi_media">MEDIA</string>
+    <string name="navi_profile">PROFILE</string>
+    <string name="jSlider1">WELCOME </string>
+    <string name="descSlider1">APLIKASI TENTANG REZA ACHMAD FAUZI</string>
+    <string name="jSlider2">BERBAGAI MACAM KEGIATAN</string>
+    <string name="descSlider2">KEGIATAN SEHARI-HARI</string>
+    <string name="jSlider3">ARE YOU READY</string>
+    <string name="descSlider3">OKEY ..</string>
+    <string name="root">PILIH MENU YANG SESUAI</string>
 </resources>
