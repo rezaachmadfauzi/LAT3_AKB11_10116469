@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_marginLeft="15dp"-->
+        <!--android:layout_marginRight="15dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:gravity="center">-->
+
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:textColor="@color/lightblue"-->
+            <!--android:text="Hehe Bercanda Kok"-->
+            <!--android:textSize="40dp" />-->
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:textColor="@color/lightblue"-->
+            <!--android:text="Tapi kalau mau, isi pulsa aja ke nomer di halaman sebelumnya "-->
+            <!--android:textSize="30dp" />-->
+
+        <!--<Button-->
+            <!--android:id="@+id/bt_ok"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:layout_marginTop="43dp"-->
+            <!--android:layout_marginBottom="5dp"-->
+            <!--android:text=" Oke " />-->
+
+
+    <!--</LinearLayout>-->
+
+
+</RelativeLayout>
